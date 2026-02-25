@@ -1,5 +1,4 @@
 # Intelligent-ML-Analytics-Model
-# Machine Learning, NLP & Time Series Project
 
 This project demonstrates the application of multiple data science techniques including:
 
