@@ -69,7 +69,7 @@ Classify customer reviews into:
 - Text cleaning
 - Lowercasing
 - Stopword removal
-- TF-IDF Vectorization (n-grams)
+- TF-IDF Vectorization
 
 ### Models Compared:
 - Logistic Regression
